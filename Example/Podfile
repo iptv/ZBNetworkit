@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZBNetworkit_Example' do
+  pod 'ZBNetworkit', :path => '../'
+
+  target 'ZBNetworkit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
