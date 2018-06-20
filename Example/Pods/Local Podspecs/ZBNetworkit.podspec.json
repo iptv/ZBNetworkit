@@ -1,0 +1,22 @@
+{
+  "name": "ZBNetworkit",
+  "version": "0.1.0",
+  "summary": "A short description of ZBNetworkit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/461308387@qq.com/ZBNetworkit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "461308387@qq.com": "461308387@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/461308387@qq.com/ZBNetworkit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZBNetworkit/Classes/**/*"
+}

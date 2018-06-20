@@ -1,0 +1,16 @@
+PODS:
+  - ZBNetworkit (0.1.0)
+
+DEPENDENCIES:
+  - ZBNetworkit (from `../`)
+
+EXTERNAL SOURCES:
+  ZBNetworkit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZBNetworkit: 171be16346b8cdd7ebd1e4a2cdb9d01da2cdd310
+
+PODFILE CHECKSUM: 5e2590a479ff50872e474b33ad63a1c1edbeef98
+
+COCOAPODS: 1.4.0
